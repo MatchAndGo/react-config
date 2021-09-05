@@ -1,0 +1,11 @@
+{
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true,
+		"source.fixAll.eslint": true,
+		"source.fixAll.stylelint": true
+	},
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"editor.formatOnSave": true,
+	"cSpell.words": ["chakra", "core", "fullcalendar", "luxon", "preconnect", "timetime", "toastify", "unstyled"],
+	"todo-tree.tree.disableCompactFolders": true
+}
